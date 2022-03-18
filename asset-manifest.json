@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/weloveart/static/css/main.75dbf6db.chunk.css",
-    "main.js": "/weloveart/static/js/main.e3e51a7f.chunk.js",
-    "main.js.map": "/weloveart/static/js/main.e3e51a7f.chunk.js.map",
-    "runtime-main.js": "/weloveart/static/js/runtime-main.3fdc1203.js",
-    "runtime-main.js.map": "/weloveart/static/js/runtime-main.3fdc1203.js.map",
-    "static/css/2.1f7ed283.chunk.css": "/weloveart/static/css/2.1f7ed283.chunk.css",
-    "static/js/2.4c549c03.chunk.js": "/weloveart/static/js/2.4c549c03.chunk.js",
-    "static/js/2.4c549c03.chunk.js.map": "/weloveart/static/js/2.4c549c03.chunk.js.map",
-    "index.html": "/weloveart/index.html",
-    "static/css/2.1f7ed283.chunk.css.map": "/weloveart/static/css/2.1f7ed283.chunk.css.map",
-    "static/css/main.75dbf6db.chunk.css.map": "/weloveart/static/css/main.75dbf6db.chunk.css.map",
-    "static/js/2.4c549c03.chunk.js.LICENSE.txt": "/weloveart/static/js/2.4c549c03.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/weloveart/static/media/et-line.d59b2385.woff",
-    "static/media/font-awesome.min.css": "/weloveart/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/slick-theme.css": "/weloveart/static/media/slick.c94f7671.ttf"
+    "main.css": "/static/css/main.75dbf6db.chunk.css",
+    "main.js": "/static/js/main.c057d588.chunk.js",
+    "main.js.map": "/static/js/main.c057d588.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48e99fb2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48e99fb2.js.map",
+    "static/css/2.bff8748d.chunk.css": "/static/css/2.bff8748d.chunk.css",
+    "static/js/2.64b7cd0c.chunk.js": "/static/js/2.64b7cd0c.chunk.js",
+    "static/js/2.64b7cd0c.chunk.js.map": "/static/js/2.64b7cd0c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.bff8748d.chunk.css.map": "/static/css/2.bff8748d.chunk.css.map",
+    "static/css/main.75dbf6db.chunk.css.map": "/static/css/main.75dbf6db.chunk.css.map",
+    "static/js/2.64b7cd0c.chunk.js.LICENSE.txt": "/static/js/2.64b7cd0c.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/et-line.d59b2385.woff",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.3fdc1203.js",
-    "static/css/2.1f7ed283.chunk.css",
-    "static/js/2.4c549c03.chunk.js",
+    "static/js/runtime-main.48e99fb2.js",
+    "static/css/2.bff8748d.chunk.css",
+    "static/js/2.64b7cd0c.chunk.js",
     "static/css/main.75dbf6db.chunk.css",
-    "static/js/main.e3e51a7f.chunk.js"
+    "static/js/main.c057d588.chunk.js"
   ]
 }
