@@ -92,7 +92,7 @@ const homethree = () => (
         <div className="row">
           <div className="col-lg-12">
             <div className="spacer-double"></div>
-            <h2 className="style-2">Art Work</h2>
+            <h2 className="style-2">Art Work & Gallary</h2>
           </div>
         </div>
         <ColumnNew />
